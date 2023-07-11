@@ -41,7 +41,7 @@ Start the server
 
 ## Screenshots
 
-<img width="508" alt="Screenshot 2023-07-11 at 12 27 28 PM" src="https://github.com/Mihir2423/TodoList/assets/93427284/471dadf1-0995-4e39-90c6-2c4981af1afd">
+<img width="200" alt="Screenshot 2023-07-11 at 12 27 28 PM" src="https://github.com/Mihir2423/TodoList/assets/93427284/471dadf1-0995-4e39-90c6-2c4981af1afd">
 
 
 
