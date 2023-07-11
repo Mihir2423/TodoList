@@ -4,7 +4,9 @@
 The React Native Basic To-Do List is a simple and intuitive mobile application that allows users to create, manage, and track their daily tasks and to-do items. Built using React Native, this app provides a seamless cross-platform experience, enabling users to access their to-do lists on both iOS and Android devices.
 
 
+## Screenshots
 
+<img width="200" alt="Screenshot 2023-07-11 at 12 27 28 PM" src="https://github.com/Mihir2423/TodoList/assets/93427284/471dadf1-0995-4e39-90c6-2c4981af1afd">
 
 
 ## Features
@@ -39,9 +41,7 @@ Start the server
   npx expo start
 ```
 
-## Screenshots
 
-<img width="200" alt="Screenshot 2023-07-11 at 12 27 28 PM" src="https://github.com/Mihir2423/TodoList/assets/93427284/471dadf1-0995-4e39-90c6-2c4981af1afd">
 
 
 
